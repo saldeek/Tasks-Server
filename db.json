@@ -5,7 +5,7 @@
       "category": "Fitness",
       "title": "Walking",
       "description": "Walk for 30 mins",
-      "due-date": "13-02-2022",
+      "dueDate": "13-02-2022",
       "status": "Done",
     },
     {
@@ -13,7 +13,7 @@
       "category": "Osboha",
       "title": "Osboha Platform",
       "description": "Release Osboha platform",
-      "due-date": "10-10-2022",
+      "dueDate": "10-10-2022",
       "status": "In progress",
     },
     {
@@ -21,7 +21,7 @@
       "category": "Programming",
       "title": "Vue Course",
       "description": "Finish vue 3 required videos for week 3",
-      "due-date": "18-02-2022",
+      "dueDate": "18-02-2022",
       "status": "In progress",
     },
     {
@@ -29,7 +29,7 @@
       "category": "Work",
       "title": "MVF",
       "description": "Implement an admin tool .Net API",
-      "due-date": "14-03-2022",
+      "dueDate": "14-03-2022",
       "status": "Not started",
     }
   ]
