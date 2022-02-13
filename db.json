@@ -6,7 +6,7 @@
       "title": "Walking",
       "description": "Walk for 30 mins",
       "dueDate": "13-02-2022",
-      "status": "Done",
+      "status": "Done"
     },
     {
       "id": 101,
@@ -14,7 +14,7 @@
       "title": "Osboha Platform",
       "description": "Release Osboha platform",
       "dueDate": "10-10-2022",
-      "status": "In progress",
+      "status": "In progress"
     },
     {
       "id": 102,
@@ -22,7 +22,7 @@
       "title": "Vue Course",
       "description": "Finish vue 3 required videos for week 3",
       "dueDate": "18-02-2022",
-      "status": "In progress",
+      "status": "In progress"
     },
     {
       "id": 103,
@@ -30,7 +30,7 @@
       "title": "MVF",
       "description": "Implement an admin tool .Net API",
       "dueDate": "14-03-2022",
-      "status": "Not started",
+      "status": "Not started"
     }
   ]
 }
