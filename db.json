@@ -31,6 +31,14 @@
       "description": "Implement an admin tool .Net API",
       "dueDate": "14-03-2022",
       "status": "Not started"
+    },
+    {
+      "id": 104,
+      "category": "Work",
+      "title": "Eviti",
+      "description": "Ramp up Eviti technologies",
+      "dueDate": "18-04-2022",
+      "status": "Not started"
     }
   ]
 }
