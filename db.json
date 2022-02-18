@@ -39,6 +39,14 @@
       "description": "Ramp up Eviti technologies",
       "dueDate": "18-04-2022",
       "status": "Not started"
-    }
+    },
+    {
+      "id": 105,
+      "category": "Programming",
+      "title": "Laravel",
+      "description": "Complete resource task",
+      "dueDate": "22-02-2022",
+      "status": "In progress"
+    },
   ]
 }
